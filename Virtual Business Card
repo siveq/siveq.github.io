@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Virtual Businesscard</title>
+</head>
+<body>
+
+
+<body style="background-color:gray;">
+<h2></h2>
+<img src="https://directory.bju.edu/BaseTheme/_image.aspx/GkcpgfuzJFWY3ZeElRj0aEwEmnjqWSHV-Go=/image.jpg" alt="Vintage Photo" style="width:186px;height:228px;">
+
+<h1 style="color:white;">Aaron Randolph</h1>
+<h2 style="color:black;">Major: Spanish</h1>
+<h3 style="color:black;">Year: Sophomore</h1>
+<h3 style="color:black;">Hometown: Georgetown IL</h1>
+
+<p style="color:Black;">I'm currently a sophomore at Bob Jones University studying Spanish.</p> 
+<p style="color:Black;">My goal is to eventually go into some sort of vocational ministry. I'm especially interested</p> 
+<p style="color:Black;">in South America or Mexico but I recognize there is also a large need here in the United States.</p>
+
+</body>
+</html>
